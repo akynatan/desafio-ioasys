@@ -1,0 +1,4 @@
+module.exports = {
+    config: 'src/config/database.ts',
+    'migrations-path': 'src/database/migrations',
+};
