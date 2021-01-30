@@ -16,5 +16,7 @@ Funcionalidades da API
 - Autenticação via JWT
 - Criptografia de senhas com bycript
 - Cadastro de usuários
-- Cadastro de filmes (somente para usuários administradores)
-- Votação em filmes.
+- Cadastro de filmes (funcionalidade somente para usuários administradores)
+- Votação em filmes (A contagem dos votos será feita por usuário de 0-4 que indica quanto o usuário gostou do filme)
+- Listagem dos filmes (com possibilidade de filtro por diretor, nome, gênero e/ou atores)
+
